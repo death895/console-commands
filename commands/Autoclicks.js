@@ -1,4 +1,4 @@
-//hold middle click to autoclick (mouse needed), this is so it works on most games
+//\hold middle click to autoclick (mouse needed), this is so it works on most games
 let pw = 'Qwfp.1234'
 let input = window.prompt('Please enter the password!')
 if (pw = input) {
