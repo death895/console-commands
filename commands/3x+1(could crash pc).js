@@ -23,3 +23,4 @@ function collatzConjecture(n) {
 
 //litrally all the logic we need to execute the code
 collatzConjecture(parseInt(window.prompt('enter a number')));
+//PLEASE DON"T PUT NEGATIVES OR 0 OR 1 PLEASSSEESEESESEESESE I BEGGG UWU
